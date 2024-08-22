@@ -1,0 +1,15 @@
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
